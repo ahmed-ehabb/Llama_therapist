@@ -1,0 +1,41 @@
+================================================================
+           QUICK START: Push to GitHub
+================================================================
+
+Your repository is ready! Follow these 3 simple steps:
+
+STEP 1: Create a new repository on GitHub
+------------------------------------------
+1. Go to: https://github.com/new
+2. Repository name: LLama_therapist
+3. Description: A fine-tuned LLaMA 3.2 chatbot for therapeutic conversations
+4. Make it PUBLIC
+5. DO NOT check any boxes (no README, no .gitignore, no license)
+6. Click "Create repository"
+
+STEP 2: Copy these commands
+----------------------------
+After creating the repo, GitHub will show you commands.
+Run these in your terminal (replace YOUR_USERNAME):
+
+git remote add origin https://github.com/YOUR_USERNAME/LLama_therapist.git
+git branch -M main
+git push -u origin main
+
+EXAMPLE (replace with your actual username):
+git remote add origin https://github.com/ahmed/LLama_therapist.git
+git branch -M main
+git push -u origin main
+
+STEP 3: Verify
+--------------
+Your repository should now be live at:
+https://github.com/YOUR_USERNAME/LLama_therapist
+
+================================================================
+
+NEED HELP? See SETUP_GITHUB.md for detailed instructions.
+
+WANT MORE VIEWS? See ATTRACT_VIEWS.md for promotion strategies.
+
+================================================================
